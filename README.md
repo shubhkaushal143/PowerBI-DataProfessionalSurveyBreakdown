@@ -5,7 +5,7 @@
 This is Visualization project based on data professionals survey dataset available for data modelling, visualization and dashboarding. 
 To conduct a comprehensive analysis using the survey dataset we have to identify some valueable key insights for our Visualisation in PowerBI.
 
-![Dashboard]("Data-Professionals-SurveyDashboard.png")
+![Dashboard](Data-Professionals-SurveyDashboard.png)
 
 ---
 
